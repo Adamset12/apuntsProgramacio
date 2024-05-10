@@ -1,0 +1,159 @@
+2024-05-05 10:43:57,441 INFO La aplicacion ha iniciado
+2024-05-05 10:43:57,441 DEBUG Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 10:44:02,308 DEBUG Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 10:44:02,309 DEBUG Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 10:44:05,025 DEBUG Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 10:44:05,025 DEBUG Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-05 10:44:25,951 DEBUG Arxiu "sortida\Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-05 10:44:25,952 DEBUG Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 10:44:27,262 DEBUG Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 10:44:27,269 DEBUG Llegint arxiu "diccionari.txt"
+2024-05-05 10:44:27,446 DEBUG Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 10:44:27,446 DEBUG Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 10:44:36,747 DEBUG Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 10:44:36,747 DEBUG Llegint arxiu "paraules.txt"
+2024-05-05 10:44:36,770 DEBUG Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 10:44:36,771 DEBUG Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 10:44:38,655 DEBUG Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 10:44:38,655 DEBUG Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-05 10:44:40,942 DEBUG Arxiu "sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 10:44:40,943 DEBUG Llegint arxiu "x.txt"
+2024-05-05 10:44:40,944 ERROR No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 10:44:40,944 INFO El programa ha terminat a les: 1714898680.9441261, Temps total d'execució: 43.50306010246277
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 11:53:32 - log_config - INFO - L'aplicació ha iniciat
+2024-05-05 11:53:32 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 11:53:37 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 11:53:37 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 11:53:40 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 11:53:40 - log_config - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-05 11:54:00 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-05 11:54:00 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 11:54:01 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:54:01 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 11:54:01 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 11:54:01 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 11:54:10 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 11:54:10 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 11:54:10 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 11:54:10 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 11:54:12 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:54:12 - log_config - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-05 11:54:15 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:54:15 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 11:54:15 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 11:54:15 - log_config - INFO - El programa ha terminat a les: 1714902855.126713, Temps total d'execució: 42.295899868011475
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 11:57:06 - log_config - INFO - L'aplicació ha iniciat
+2024-05-05 11:57:06 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 11:57:10 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 11:57:10 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 11:57:14 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 11:57:14 - log_config - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-05 11:57:33 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-05 11:57:33 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 11:57:35 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:57:35 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 11:57:35 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 11:57:35 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 11:57:44 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 11:57:44 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 11:57:44 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 11:57:44 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 11:57:46 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:57:46 - log_config - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-05 11:57:48 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:57:48 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 11:57:48 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 11:57:48 - log_config - INFO - El programa ha terminat a les: 2024-05-05 11:57:48.494620, Temps total d'execució: 0:00:41.913896
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 12:00:53 - log_config - INFO - L'aplicació ha iniciat
+2024-05-05 12:00:53 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 12:00:57 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 12:00:57 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 12:01:00 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 12:01:00 - log_config - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-05 12:01:19 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-05 12:01:19 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 12:01:20 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:01:20 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 12:01:20 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 12:01:20 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 12:01:30 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 12:01:30 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 12:01:30 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 12:01:30 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 12:01:32 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:01:32 - log_config - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-05 12:01:34 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:01:34 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 12:01:34 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 12:02:29 - log_config - INFO - L'aplicació ha iniciat
+2024-05-05 12:02:29 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 12:02:33 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 12:02:33 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 12:02:36 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 12:02:36 - log_config - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-05 12:02:56 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-05 12:02:56 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 12:02:57 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:02:57 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 12:02:57 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 12:02:57 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 12:03:06 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 12:03:06 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 12:03:06 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 12:03:06 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 12:03:08 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:03:08 - log_config - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-05 12:03:10 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:03:10 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 12:03:10 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 12:03:10 - log_config - INFO - El programa ha terminat a les: 2024-05-05 12:03:10, Temps total d'execució: 0:00:41.666857
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 12:05:20 - log_config - INFO - L'aplicació ha iniciat
+2024-05-05 12:05:20 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 12:05:25 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 12:05:25 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 12:05:28 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 12:05:28 - log_config - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-05 12:05:49 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-05 12:05:49 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 12:05:50 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:05:50 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 12:05:50 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 12:05:50 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 12:06:00 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 12:06:00 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 12:06:00 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 12:06:00 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 12:06:01 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:06:01 - log_config - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-05 12:06:04 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:06:04 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 12:06:04 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 12:06:04 - log_config - INFO - El programa ha terminat a les: 2024-05-05 12:06:04, Temps total d'execució: 43.28
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 12:18:48 - main - INFO - L'aplicació ha iniciat
+2024-05-05 12:18:48 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 12:18:52 - crazy_words - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 12:18:52 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 12:18:55 - crazy_words - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 12:18:55 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-05 12:19:18 - crazy_words - DEBUG - Arxiu "sortida\Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-05 12:19:18 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 12:19:19 - crazy_words - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:19:19 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 12:19:20 - crazy_words - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 12:19:20 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 12:19:30 - crazy_words - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 12:19:30 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 12:19:30 - crazy_words - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 12:19:30 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 12:19:32 - crazy_words - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:19:32 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-05 12:19:34 - crazy_words - DEBUG - Arxiu "sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:19:34 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 12:19:34 - data_source - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 12:19:34 - main - INFO - El programa ha terminat a les: 2024-05-05 12:19:34, Temps total d'execució: 46.68s
+----------------------------------------------------------------------------------------------------------------------------------------------

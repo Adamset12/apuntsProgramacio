@@ -1,0 +1,23 @@
+2024-05-05 11:48:30 - log_config - INFO - L'aplicació ha iniciat
+2024-05-05 11:48:30 - log_config - DEBUG - Llegint arxiu
+2024-05-05 11:48:30 - log_config - ERROR - No se ha encontrado el archivo paraules.txt
+2024-05-05 11:48:30 - log_config - ERROR - El procés ha fallat
+2024-05-05 11:48:30 - log_config - INFO - Finalitzat.
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 11:48:31 - log_config - INFO - L'aplicació ha iniciat
+2024-05-05 11:48:31 - log_config - DEBUG - Llegint arxiu
+2024-05-05 11:48:31 - log_config - ERROR - No se ha encontrado el archivo paraules.txt
+2024-05-05 11:48:31 - log_config - ERROR - El procés ha fallat
+2024-05-05 11:48:31 - log_config - INFO - Finalitzat.
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 11:48:31 - log_config - INFO - L'aplicació ha iniciat
+2024-05-05 11:48:31 - log_config - DEBUG - Llegint arxiu
+2024-05-05 11:48:31 - log_config - ERROR - No se ha encontrado el archivo paraules.txt
+2024-05-05 11:48:31 - log_config - ERROR - El procés ha fallat
+2024-05-05 11:48:31 - log_config - INFO - Finalitzat.
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:34:54 - main - INFO - L'aplicaciÃ³ ha iniciat
+2024-05-06 11:34:54 - main - DEBUG - Llegint arxiu
+2024-05-06 11:34:54 - crazy_words - DEBUG - Arxiu escrit correctament
+2024-05-06 11:34:54 - main - INFO - Finalitzat.
+----------------------------------------------------------------------------------------------------------------------------------------------

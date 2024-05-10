@@ -86,3 +86,14 @@ def write_letter_counts_to_file(words):
     except:
         logging.error("no se ha podido escribir en el archivo de salida", OUTPUT_FILE)
         return None
+
+"""
+# Original string
+original_string = "Hello, world! Hello, Python!"
+
+# Replacing "Hello" with "Hi"
+new_string = original_string.replace("Hello", "Hi")
+
+print("Original string:", original_string)
+print("New string:", new_string)
+"""

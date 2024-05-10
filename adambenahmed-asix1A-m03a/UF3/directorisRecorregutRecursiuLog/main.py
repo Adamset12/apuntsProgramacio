@@ -1,0 +1,2 @@
+import recorrerdir
+recorrerdir.main()

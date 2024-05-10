@@ -1,0 +1,511 @@
+2024-05-05 10:43:57,441 INFO La aplicacion ha iniciado
+2024-05-05 10:43:57,441 DEBUG Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 10:44:02,308 DEBUG Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 10:44:02,309 DEBUG Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 10:44:05,025 DEBUG Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 10:44:05,025 DEBUG Llegint arxiu "Abe Shana - La ?ltima sirena.txt"
+2024-05-05 10:44:25,951 DEBUG Arxiu "sortida\Abe Shana - La ?ltima sirena_boges.txt" escrit correctament
+2024-05-05 10:44:25,952 DEBUG Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 10:44:27,262 DEBUG Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 10:44:27,269 DEBUG Llegint arxiu "diccionari.txt"
+2024-05-05 10:44:27,446 DEBUG Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 10:44:27,446 DEBUG Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 10:44:36,747 DEBUG Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 10:44:36,747 DEBUG Llegint arxiu "paraules.txt"
+2024-05-05 10:44:36,770 DEBUG Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 10:44:36,771 DEBUG Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 10:44:38,655 DEBUG Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 10:44:38,655 DEBUG Llegint arxiu "VIVE TU SUE?O - JOHN MAXWELL.txt"
+2024-05-05 10:44:40,942 DEBUG Arxiu "sortida\VIVE TU SUE?O - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 10:44:40,943 DEBUG Llegint arxiu "x.txt"
+2024-05-05 10:44:40,944 ERROR No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 10:44:40,944 INFO El programa ha terminat a les: 1714898680.9441261, Temps total d'execuci?: 43.50306010246277
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 11:53:32 - log_config - INFO - L'aplicaci? ha iniciat
+2024-05-05 11:53:32 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 11:53:37 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 11:53:37 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 11:53:40 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 11:53:40 - log_config - DEBUG - Llegint arxiu "Abe Shana - La ?ltima sirena.txt"
+2024-05-05 11:54:00 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La ?ltima sirena_boges.txt" escrit correctament
+2024-05-05 11:54:00 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 11:54:01 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:54:01 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 11:54:01 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 11:54:01 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 11:54:10 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 11:54:10 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 11:54:10 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 11:54:10 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 11:54:12 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:54:12 - log_config - DEBUG - Llegint arxiu "VIVE TU SUE?O - JOHN MAXWELL.txt"
+2024-05-05 11:54:15 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUE?O - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:54:15 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 11:54:15 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 11:54:15 - log_config - INFO - El programa ha terminat a les: 1714902855.126713, Temps total d'execuci?: 42.295899868011475
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 11:57:06 - log_config - INFO - L'aplicaci? ha iniciat
+2024-05-05 11:57:06 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 11:57:10 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 11:57:10 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 11:57:14 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 11:57:14 - log_config - DEBUG - Llegint arxiu "Abe Shana - La ?ltima sirena.txt"
+2024-05-05 11:57:33 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La ?ltima sirena_boges.txt" escrit correctament
+2024-05-05 11:57:33 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 11:57:35 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:57:35 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 11:57:35 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 11:57:35 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 11:57:44 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 11:57:44 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 11:57:44 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 11:57:44 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 11:57:46 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:57:46 - log_config - DEBUG - Llegint arxiu "VIVE TU SUE?O - JOHN MAXWELL.txt"
+2024-05-05 11:57:48 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUE?O - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 11:57:48 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 11:57:48 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 11:57:48 - log_config - INFO - El programa ha terminat a les: 2024-05-05 11:57:48.494620, Temps total d'execuci?: 0:00:41.913896
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 12:00:53 - log_config - INFO - L'aplicaci? ha iniciat
+2024-05-05 12:00:53 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 12:00:57 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 12:00:57 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 12:01:00 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 12:01:00 - log_config - DEBUG - Llegint arxiu "Abe Shana - La ?ltima sirena.txt"
+2024-05-05 12:01:19 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La ?ltima sirena_boges.txt" escrit correctament
+2024-05-05 12:01:19 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 12:01:20 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:01:20 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 12:01:20 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 12:01:20 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 12:01:30 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 12:01:30 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 12:01:30 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 12:01:30 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 12:01:32 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:01:32 - log_config - DEBUG - Llegint arxiu "VIVE TU SUE?O - JOHN MAXWELL.txt"
+2024-05-05 12:01:34 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUE?O - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:01:34 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 12:01:34 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 12:02:29 - log_config - INFO - L'aplicaci? ha iniciat
+2024-05-05 12:02:29 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 12:02:33 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 12:02:33 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 12:02:36 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 12:02:36 - log_config - DEBUG - Llegint arxiu "Abe Shana - La ?ltima sirena.txt"
+2024-05-05 12:02:56 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La ?ltima sirena_boges.txt" escrit correctament
+2024-05-05 12:02:56 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 12:02:57 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:02:57 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 12:02:57 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 12:02:57 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 12:03:06 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 12:03:06 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 12:03:06 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 12:03:06 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 12:03:08 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:03:08 - log_config - DEBUG - Llegint arxiu "VIVE TU SUE?O - JOHN MAXWELL.txt"
+2024-05-05 12:03:10 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUE?O - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:03:10 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 12:03:10 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 12:03:10 - log_config - INFO - El programa ha terminat a les: 2024-05-05 12:03:10, Temps total d'execuci?: 0:00:41.666857
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 12:05:20 - log_config - INFO - L'aplicaci? ha iniciat
+2024-05-05 12:05:20 - log_config - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 12:05:25 - log_config - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 12:05:25 - log_config - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 12:05:28 - log_config - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 12:05:28 - log_config - DEBUG - Llegint arxiu "Abe Shana - La ?ltima sirena.txt"
+2024-05-05 12:05:49 - log_config - DEBUG - Arxiu "sortida\Abe Shana - La ?ltima sirena_boges.txt" escrit correctament
+2024-05-05 12:05:49 - log_config - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 12:05:50 - log_config - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:05:50 - log_config - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 12:05:50 - log_config - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 12:05:50 - log_config - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 12:06:00 - log_config - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 12:06:00 - log_config - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 12:06:00 - log_config - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 12:06:00 - log_config - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 12:06:01 - log_config - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:06:01 - log_config - DEBUG - Llegint arxiu "VIVE TU SUE?O - JOHN MAXWELL.txt"
+2024-05-05 12:06:04 - log_config - DEBUG - Arxiu "sortida\VIVE TU SUE?O - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:06:04 - log_config - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 12:06:04 - log_config - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 12:06:04 - log_config - INFO - El programa ha terminat a les: 2024-05-05 12:06:04, Temps total d'execuci?: 43.28
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-05 12:18:48 - main - INFO - L'aplicaci? ha iniciat
+2024-05-05 12:18:48 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-05 12:18:52 - crazy_words - DEBUG - Arxiu "sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-05 12:18:52 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-05 12:18:55 - crazy_words - DEBUG - Arxiu "sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-05 12:18:55 - main - DEBUG - Llegint arxiu "Abe Shana - La ?ltima sirena.txt"
+2024-05-05 12:19:18 - crazy_words - DEBUG - Arxiu "sortida\Abe Shana - La ?ltima sirena_boges.txt" escrit correctament
+2024-05-05 12:19:18 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-05 12:19:19 - crazy_words - DEBUG - Arxiu "sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:19:19 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-05 12:19:20 - crazy_words - DEBUG - Arxiu "sortida\diccionari_boges.txt" escrit correctament
+2024-05-05 12:19:20 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-05 12:19:30 - crazy_words - DEBUG - Arxiu "sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-05 12:19:30 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-05 12:19:30 - crazy_words - DEBUG - Arxiu "sortida\paraules_boges.txt" escrit correctament
+2024-05-05 12:19:30 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-05 12:19:32 - crazy_words - DEBUG - Arxiu "sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:19:32 - main - DEBUG - Llegint arxiu "VIVE TU SUE?O - JOHN MAXWELL.txt"
+2024-05-05 12:19:34 - crazy_words - DEBUG - Arxiu "sortida\VIVE TU SUE?O - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-05 12:19:34 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-05 12:19:34 - data_source - ERROR - No se pudo leer el archivo entrada\x.txt, mal encoding.
+2024-05-05 12:19:34 - main - INFO - El programa ha terminat a les: 2024-05-05 12:19:34, Temps total d'execuci?: 46.68s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 08:28:09 - main - INFO - L'aplicació ha iniciat
+2024-05-06 08:28:09 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 08:28:09 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 08:28:09 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 08:28:10 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 08:28:10 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 08:28:15 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 08:28:15 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 08:28:40 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 08:28:40 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 08:28:52 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 08:28:52 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 08:28:52 - data_source - ERROR - No se pudo leer el archivo entrada/x.txt, mal encoding.
+2024-05-06 08:28:52 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 08:28:56 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 08:28:56 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 08:28:59 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 08:28:59 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 08:29:01 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 08:29:01 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 08:29:04 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 08:29:04 - main - INFO - El programa ha terminat a les: 2024-05-06 08:29:04, Temps total d'execució: 54.85s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 08:37:37 - main - INFO - L'aplicació ha iniciat
+2024-05-06 08:37:37 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 08:37:37 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 08:37:37 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 08:37:37 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 08:37:37 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 08:37:43 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 08:37:43 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 08:38:07 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 08:38:07 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 08:38:19 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 08:38:19 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 08:38:19 - data_source - ERROR - No se pudo leer el archivo entrada/x.txt, mal encoding.
+2024-05-06 08:38:19 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 08:38:22 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 08:38:22 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 08:38:26 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 08:38:26 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 08:38:28 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 08:38:28 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 08:38:31 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 08:38:31 - main - INFO - El programa ha terminat a les: 2024-05-06 08:38:31, Temps total d'execució: 0:00:53.832642s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:23:00 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:23:00 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:23:00 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:23:00 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:23:00 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:23:00 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:23:06 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:23:06 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:23:29 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:23:29 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:23:41 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:23:41 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:23:41 - data_source - ERROR - No se pudo leer el archivo entrada/x.txt, mal encoding.
+2024-05-06 11:23:41 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:23:44 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:23:44 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:23:47 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:23:47 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:23:49 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:23:49 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:23:52 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:23:52 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:52.291707s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:28:56 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:28:56 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:28:56 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:28:56 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:28:56 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:28:56 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:29:01 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:29:01 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:29:24 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:29:24 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:29:35 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:29:35 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:29:35 - data_source - ERROR - No se pudo leer el archivo entrada/x.txt, mal encoding.
+2024-05-06 11:29:35 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:29:39 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:29:39 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:29:42 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:29:42 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:29:44 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:29:44 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:29:47 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:29:47 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:51.036861s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:31:08 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:31:08 - main - ERROR - El directori "entrada" no existeix.
+2024-05-06 11:31:08 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.000061s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:32:31 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:32:31 - main - ERROR - El directori "entrada" no existeix.
+2024-05-06 11:32:31 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.000082s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:34:48 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:34:48 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:34:48 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.003098s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:39:33 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:39:33 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:39:33 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.001828s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:39:48 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:39:48 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:39:48 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.007105s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:42:30 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:42:30 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:42:30 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.007129s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:43:51 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:43:51 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:43:51 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:43:53 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.013744s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:43:56 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:43:56 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:43:56 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.007023s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:44:01 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:44:08 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:44:08 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:44:15 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:44:15 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:44:32 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:44:47 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:44:53 - main - ERROR - El procés ha fallat
+2024-05-06 11:44:53 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:51.047987s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:45:21 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:45:21 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:45:21 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.002149s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:47:41 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:47:41 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:47:41 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.005347s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:47:53 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:47:53 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:47:53 - main - INFO - Programa finalitzat, Temps total d'execució: 0:00:00.005369s
+----------------------------------------------------------------------------------------------------------------------------------------------
+2024-05-06 11:51:47 - main - INFO - L'aplicació ha iniciat
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "paraules.txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/paraules_boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "diccionari.txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/diccionari_boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "17 LEYES DEL TRABAJO EN EQUIPO.txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/17 LEYES DEL TRABAJO EN EQUIPO_boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "Abe Shana - La última sirena.txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/Abe Shana - La última sirena_boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "El Oro Y La Ceniza - Abecassis Eliette .txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/El Oro Y La Ceniza - Abecassis Eliette _boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "x.txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/x_boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "VIVE TU SUEÑO - JOHN MAXWELL.txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/VIVE TU SUEÑO - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "25 MANERAS DE GANARSE A LA GENTE - .txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/25 MANERAS DE GANARSE A LA GENTE - _boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - DEBUG - Llegint arxiu "SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt"
+2024-05-06 11:51:47 - crazy_words - DEBUG - Arxiu "sortida/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt" escrit correctament
+2024-05-06 11:51:47 - main - INFO - El programa ha terminat a les: 2024-05-06 11:51:47, Temps total d'execució: 0.00s
+----------------------------------------------------------------------------------------------------------------------------------------------
